@@ -1,1 +1,1 @@
-FROM nuclio/dashboard:1.5.8-amd64
+FROM nuclio/dashboard
