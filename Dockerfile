@@ -1,1 +1,1 @@
-FROM nuclio/dashboard
+FROM nuclio/nuclio
